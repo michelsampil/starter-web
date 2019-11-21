@@ -18,6 +18,7 @@ asdasdadsads
 ##How to contribute
 
 asdadsfasddf
+PINTO COSAS NUEVAS EN MASTER
 
 2222222222222222222222222222 esto no esta en el stage
 
