@@ -2,11 +2,11 @@
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+## Purposeeeesss
 
 Sample website with plenty of files for demos
 
-##Intro aferte propouse
+##Intro aferte propoeeeeeeeeeuse
 
 asdasdds
 
@@ -14,11 +14,13 @@ asdasdds
 
 
 asdasdadsads
+a ver que pasas
 
-##How to contribute
+##How to contrisssssbute
 
 asdadsfasddf
 PINTO COSAS NUEVAS EN MASTER of PUPPETS!!!!
+le agregamos mas cosas aun
 
 2222222222222222222222222222 esto no esta en el stage
 
