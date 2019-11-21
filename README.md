@@ -18,7 +18,7 @@ asdasdadsads
 ##How to contribute
 
 asdadsfasddf
-PINTO COSAS NUEVAS EN MASTER
+PINTO COSAS NUEVAS EN MASTER of PUPPETS!!!!
 
 2222222222222222222222222222 esto no esta en el stage
 
